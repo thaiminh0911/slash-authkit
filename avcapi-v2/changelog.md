@@ -21,6 +21,8 @@ icon: arrows-rotate
 
 <mark style="color:green;">`NEW`</mark> : Use an additional MySQL Database server as the second server.
 
+<mark style="color:green;">`NEW`</mark> : New module created to make it easier to use **AppVerify Code API v2** with **Python**.
+
 <mark style="color:purple;">`CHANGE`</mark> Modify some API endpoints
 
 * `/api/telegram/otpVerification` ⇒ `/api/tg/otp`
