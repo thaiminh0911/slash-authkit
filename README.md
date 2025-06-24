@@ -15,6 +15,10 @@ layout:
 
 # Welcome
 
+{% hint style="info" %}
+**AppVerify Code API** will officially be renamed to<img src=".gitbook/assets/authkit-logo.svg" alt="" data-size="line">in the upcoming v2. We'll update the changelog soon!
+{% endhint %}
+
 Welcome to **AppVerify Code API**. You can find documentation on how to use the API, instructions on creating a simple project with **AppVerify Code API**, and more.
 
 Before reading this document, make sure you have an **AVC Authkey** (or `authkey`) to use with the **AppVerify Code API**. If you do not have an **AVC Authkey**, you can use **AVC Manager** to create a new **AVC AuthKey**.

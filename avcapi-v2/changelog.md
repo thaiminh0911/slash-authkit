@@ -1,5 +1,5 @@
 ---
-icon: webhook
+icon: arrows-rotate
 ---
 
 # Changelog
