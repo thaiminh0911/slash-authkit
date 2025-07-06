@@ -5,7 +5,7 @@ icon: arrows-rotate
 # Changelog
 
 {% hint style="info" %}
-**AppVerify Code API v2** has not been released yet. The expected launch date is **November 12, 2025**. You can experience its Beta version when a new announcement is made.
+**AppVerify Code API v2** has not been released yet. The expected launch date is Dec**ember 12, 2025**. You can experience its Beta version when a new announcement is made.
 {% endhint %}
 
 <mark style="color:green;">`NEW`</mark> [Use **`X.509`** certificates in **AppVerify Code API v2**](#user-content-fn-1)[^1]
